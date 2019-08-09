@@ -1,2 +1,2 @@
-# pelee_ssd
+# ADAS_det_seg
 caffe 
